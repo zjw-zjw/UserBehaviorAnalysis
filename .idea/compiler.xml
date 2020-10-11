@@ -12,6 +12,7 @@
         <module name="MarketAnalysis" />
         <module name="NetworkFlowAnalysis" />
         <module name="OrderPayDetect" />
+        <module name="SQLPractice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +22,7 @@
       <module name="MarketAnalysis" target="1.5" />
       <module name="NetworkFlowAnalysis" target="1.5" />
       <module name="OrderPayDetect" target="1.5" />
+      <module name="SQLPractice" target="1.8" />
       <module name="UserBehaviorAnalysis" target="1.5" />
     </bytecodeTargetLevel>
   </component>
