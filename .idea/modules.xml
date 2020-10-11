@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/MarketAnalysis/MarketAnalysis.iml" filepath="$PROJECT_DIR$/MarketAnalysis/MarketAnalysis.iml" />
       <module fileurl="file://$PROJECT_DIR$/NetworkFlowAnalysis/NetworkFlowAnalysis.iml" filepath="$PROJECT_DIR$/NetworkFlowAnalysis/NetworkFlowAnalysis.iml" />
       <module fileurl="file://$PROJECT_DIR$/OrderPayDetect/OrderPayDetect.iml" filepath="$PROJECT_DIR$/OrderPayDetect/OrderPayDetect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQLPractice/SQLPractice.iml" filepath="$PROJECT_DIR$/SQLPractice/SQLPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/UserBehaviorAnalysis.iml" filepath="$PROJECT_DIR$/UserBehaviorAnalysis.iml" />
     </modules>
   </component>

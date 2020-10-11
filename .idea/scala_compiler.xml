@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="Maven 1" modules="LogingFailDetect,LoginFailDetect,UserBehaviorAnalysis,OrderPayDetect,MarketAnalysis,HotItemsAnalysis,NetworkFlowAnalysis" />
+    <profile name="Maven 1" modules="LoginFailDetect,OrderPayDetect,NetworkFlowAnalysis,SQLPractice,HotItemsAnalysis,MarketAnalysis,UserBehaviorAnalysis,LogingFailDetect" />
   </component>
 </project>
