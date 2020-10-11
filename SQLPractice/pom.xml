@@ -91,6 +91,19 @@
             <!--<scope>provided</scope>-->
         </dependency>
 
+        <!--for HBase Sink -->
+        <dependency>
+            <groupId>org.apache.flink</groupId>
+            <artifactId>flink-hbase_${scala.binary.version}</artifactId>
+            <version>${flink.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.flink</groupId>
+            <artifactId>flink-jdbc_${scala.binary.version}</artifactId>
+            <version>${flink.version}</version>
+        </dependency>
+
         <!--mysql连接器-->
         <dependency>
             <groupId>mysql</groupId>
